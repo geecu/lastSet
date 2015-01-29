@@ -5,14 +5,17 @@
 
 standard-app-packages
 http
-spin
+sacha:spin
 accounts-facebook
 accounts-ui
-npm
-soundcloud
-external-file-loader
-flat-ui-less
+meteorhacks:npm
+mrt:soundcloud
+mrt:external-file-loader
+mrt:flat-ui-less
 natestrauser:font-awesome
 mrt:iron-router-progress
 spiderable
 
+
+
+npm-container
